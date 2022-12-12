@@ -52,7 +52,7 @@
 | フォーク           | 行為     | リモートリポジトリをリモートに複製する。                                                                                                 |
 | ssh接続            | 行為     | ローカルからリモートへ接続すること。公開鍵、秘密鍵を用いたセキュアなアクセス。これを用いないとプライベートリポジトリにアクセスできない。 |
 | .gitignore         | 設定     | 管理の対象を管理できます。                                                                                                               |
-[![Image from Gyazo](https://i.gyazo.com/a9711e79621c8e43217e34218f1e739c.png)](https://gyazo.com/a9711e79621c8e43217e34218f1e739c)[^2]
+![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/okiko/%E4%BD%9C%E6%A5%AD/manuals/git%E3%80%81github%E8%AA%AC%E6%98%8E.png?version%3D1670849486462)
 
 # 基本動作
 GitおよびGitHubではファイル変更を管理します。主な管理方法は以下の通りです。
@@ -266,4 +266,3 @@ GitおよびGitHubではファイル変更を管理します。主な管理方�
 -->
 
 [^1]: フェッチとマージが分かりづらいし理解必要がないので詳しい情報を置いておきます。[【初心者向け】git fetch、git merge、git pullの違いについて - Qiita](https://qiita.com/wann/items/688bc17460a457104d7d)
-[^2]: この表ではGitと書いてある部分が間違ってる。そこはリモートサーバーであり、GitHubなどのサービスがある。
