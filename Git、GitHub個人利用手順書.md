@@ -53,7 +53,7 @@
 | ssh接続            | 行為     | ローカルからリモートへ接続すること。公開鍵、秘密鍵を用いたセキュアなアクセス。これを用いないとプライベートリポジトリにアクセスできない。 |
 | .gitignore         | 設定     | 管理の対象を管理できます。                                                                                                               |
 
-[![Image from Gyazo](https://i.gyazo.com/cccd0e0aa55649ed1f09fd5f75d3bf6b.png)](https://gyazo.com/cccd0e0aa55649ed1f09fd5f75d3bf6b)
+[![Image from Gyazo](https://i.gyazo.com/a732b845c256ad50b0366fce6209fa98.png)](https://gyazo.com/a732b845c256ad50b0366fce6209fa98)
 
 # 基本動作
 GitおよびGitHubではファイル変更を管理します。主な管理方法は以下の通りです。
